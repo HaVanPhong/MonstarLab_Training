@@ -150,3 +150,13 @@ select sum(revenue_recognised) as 'sum revenue recognised', month(updated_at) as
 from Projects
 group by month, year 
 
+
+
+
+
+
+
+
+
+-- the end
+
